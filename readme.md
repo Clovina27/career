@@ -29,20 +29,23 @@ Tem algum conteúdo interessante? Nos ajude a trazer mais recursos!
 
 ### tecnologias
 | Estágio | Categoria 	| Título    	| Autor(a/es) |
-
+|-----------	|-----------	|-----------	|------------|------------|
 
 ### práticas
 | Categoria 	| Título    	| Autor(a/es) |
+|-----------	|-----------	|-----------	|
 | Livro | [Refatoração: Aperfeiçoando o Projeto de Código Existente](https://www.amazon.com.br/Refatora%C3%A7%C3%A3o-Aperfei%C3%A7oando-Projeto-C%C3%B3digo-Existente-ebook/dp/B019IZK89A)|  Martin Fowler
 | Livro | [TDD - Desenvolvimento Guiado Por Testes](https://www.amazon.com.br/TDD-Desenvolvimento-Guiado-por-Testes/dp/857780724X)| Kent Beck
 
 ### código
 | Categoria 	| Título    	| Autor(a/es) |
+|-----------	|-----------	|-----------	|
 | Livro | [Orientação a Objetos e SOLID para Ninjas](https://www.casadocodigo.com.br/products/livro-oo-solid)|  Mauricio Aniche
 | Livro 	| [Código Limpo: Habilidades Práticas do Agile Software](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675) | Robert C. Martin
 
 ### arquitetura
 | Categoria 	| Título    	| Autor(a/es) |
+|-----------	|-----------	|-----------	|
 | Livro | [Building Evolutionary Architecture](https://www.amazon.com.br/Building-Evolutionary-Architectures-Support-Constant-ebook/dp/B075RR1XVG) | Neal Ford, Rebecca Parsons, Pat Kua
 | Livro | [Entrega Contínua: Como Entregar Software de Forma Rápida e Confiável](https://www.amazon.com.br/Entrega-Cont%C3%ADnua-Entregar-Software-Confi%C3%A1vel-ebook/dp/B016LFWKG4/) | Jez Humble, David Farley
 | Livro | [Domain-driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com.br/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG) | Eric Evans
@@ -52,6 +55,7 @@ Tem algum conteúdo interessante? Nos ajude a trazer mais recursos!
 
 ### liderança
 | Categoria 	| Título    	| Autor(a/es) |
+|-----------	|-----------	|-----------	|
 | Livro | [Management 3.0: Leading Agile Developers, Developing Agile Leaders](https://www.amazon.com.br/Management-3-0-Developers-Developing-Addison-Wesley-ebook/dp/B004ISL6JY) | Jurgen Appelo
 | Deck 	| [Managing for Happiness: Games, Tools, and Practices to Motivate Any Team](https://www.amazon.com.br/Managing-Happiness-Practices-Motivate-English-ebook/dp/B01GQWKHXK)| Jurgen Appelo
 | Livro | [Radical Candor: Fully Revised & Updated Edition: Be a Kick-Ass Boss Without Losing Your Humanity](https://www.amazon.com.br/Radical-Candor-Revised-Kick-Ass-Humanity-ebook/dp/B07P9LPXPT/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=radical+candor&qid=1587662873&s=digital-text&sr=1-1) | Kim Scott
