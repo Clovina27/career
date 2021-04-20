@@ -29,7 +29,7 @@ Tem algum conteúdo interessante? Nos ajude a trazer mais recursos!
 
 ### tecnologias
 | Estágio | Categoria 	| Título    	| Autor(a/es) |
-|-----------	|-----------	|-----------	|------------|------------|
+|-----------	|-----------	|-----------	|------------|
 
 ### práticas
 | Categoria 	| Título    	| Autor(a/es) |
