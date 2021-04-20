@@ -7,10 +7,10 @@ Tem algum conteúdo interessante? Nos ajude a trazer mais recursos!
 
 ## Conteúdos
 - [tecnologias](https://github.com/enjoei/career#tecnologias)
-- [práticas](https://github.com/enjoei/career#praticas)
-- [código](https://github.com/enjoei/career#codigo)
+- [práticas](https://github.com/enjoei/career#pr%C3%A1ticas)
+- [código](https://github.com/enjoei/career#c%C3%B3digo)
 - [arquitetura](https://github.com/enjoei/career#arquitetura)
-- [liderança](https://github.com/enjoei/career#lideranca)
+- [liderança](https://github.com/enjoei/career#lideran%C3%A7a)
 
 ## tipos de conteúdo
 - Blogs
