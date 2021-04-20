@@ -1,11 +1,11 @@
-# Carreira enjoei
+# carreira enjoei
 
 > Uma lista selecionada de conteúdos sobre tecnologia, pra te ajudar na jornada de carreira.
 
 ---
 Tem algum conteúdo interessante? Nos ajude a trazer mais recursos!
 
-## Conteúdos
+## conteúdos
 - [tecnologias](https://github.com/enjoei/career#tecnologias)
 - [práticas](https://github.com/enjoei/career#pr%C3%A1ticas)
 - [código](https://github.com/enjoei/career#c%C3%B3digo)
@@ -70,4 +70,4 @@ Tem algum conteúdo interessante? Nos ajude a trazer mais recursos!
 | Repositório | [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)| Yangshun Tay
 
 ## Como Contribuir
-Contribuições são bem vindas! Como estamos iniciando o material, inicialmente para contribuir, basta falar com seu líder!
+Contribuições são bem vindas! Fale com seu líder.
