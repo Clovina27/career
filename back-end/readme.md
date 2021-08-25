@@ -1,9 +1,18 @@
 # carreira back-end
 
-> uma lista selecionada de conteúdos relacionados ao back-end, pra te ajudar na jornada do [enjuCa](https://enjuca.enjoei.com.br), o plano de carreira do enjoei!
+uma lista selecionada de conteúdos relacionados ao back-end, pra te ajudar na jornada do [enjuCa](https://enjuca.enjoei.com.br), o plano de carreira do enjoei!
 
 ---
 Tem algum conteúdo interessante? Nos ajude a trazer mais recursos!
+
+### don´t panic:
+
+:label: tags
+`A` - Aprendiz
+`C` - Confiante
+`P` - Pro
+`M` - Mestre
+`J` - Jedi
 
 ## conteúdos
 - [tecnologias](https://github.com/enjoei/career#tecnologias)

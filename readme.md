@@ -1,6 +1,6 @@
 ## carreira enjoei
 
-> uma lista selecionada de conteúdos sobre tecnologia, pra te ajudar na jornada do [enjuCa](https://enjuca.enjoei.com.br), o plano de carreira do enjoei!
+uma lista selecionada de conteúdos sobre tecnologia, pra te ajudar na jornada do [enjuCa](https://enjuca.enjoei.com.br), o plano de carreira do enjoei!
 
 ---
 
