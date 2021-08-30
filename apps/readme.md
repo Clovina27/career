@@ -31,7 +31,7 @@ uma lista selecionada de conteúdos relacionada a apps, pra te ajudar na jornada
   - boas práticas
 
 - senso do produto
-  - experiencia de primeira mão
+  - experiência de primeira mão
   - indicadores de desempenho
   - retorno sobre investimento
   - engajamento & nps
@@ -39,7 +39,7 @@ uma lista selecionada de conteúdos relacionada a apps, pra te ajudar na jornada
 
 - trabalho em equipe
   - gestão do código fonte
-  - ecosistema tech
+  - ecossistema tech
   - agilidade & lean
   - crítica ao status quo
   - melhoria contínua
