@@ -57,7 +57,7 @@ uma lista selecionada de conteúdos relacionada a apps, pra te ajudar na jornada
 - :video_camera: Conferências
 - :open_book: Cursos
 - :books: Livros
-- :newsletter: Newsletter
+- :newspaper: Newsletter
 - :headphones: Podcasts
 - :bookmark_tabs: Posts
 - :octocat: Repositório
