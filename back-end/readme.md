@@ -16,11 +16,11 @@ uma lista selecionada de conteúdos relacionados ao back-end, pra te ajudar na j
 `J` - Jedi
 
 ## conteúdos
-- [tecnologias](https://github.com/enjoei/career#tecnologias)
-- [práticas](https://github.com/enjoei/career#pr%C3%A1ticas)
-- [código](https://github.com/enjoei/career#c%C3%B3digo)
-- [arquitetura](https://github.com/enjoei/career#arquitetura)
-- [liderança](https://github.com/enjoei/career#lideran%C3%A7a)
+- [tecnologias](https://github.com/enjoei/career/tree/master/back-end#tecnologias)
+- [práticas](https://github.com/enjoei/career/tree/master/back-end#pr%C3%A1ticas)
+- [código](https://github.com/enjoei/career/tree/master/back-end#c%C3%B3digo)
+- [arquitetura](https://github.com/enjoei/career/tree/master/back-end#arquitetura)
+- [liderança](https://github.com/enjoei/career/tree/master/back-end#lideran%C3%A7a)
 
 ## tipos de conteúdo
 - Blogs
@@ -78,6 +78,3 @@ uma lista selecionada de conteúdos relacionados ao back-end, pra te ajudar na j
 | Deck | [Effective Engineers Gist](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) | Rondy Souza
 | Deck | [Effective Team Onboarding](https://www.slideshare.net/mscandella/effective-team-onboarding)| María Gomez, ThoughtWorks
 | Repositório | [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)| Yangshun Tay
-
-## Como Contribuir
-Contribuições são bem vindas! Fale com seu líder.
