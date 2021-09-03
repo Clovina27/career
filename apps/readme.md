@@ -25,12 +25,6 @@ uma lista selecionada de conteúdos relacionada a apps, pra te ajudar na jornada
 - [trabalho em equipe](https://github.com/enjoei/career/tree/master/apps/trabalho%20em%20equipe)
 - [liderança](https://github.com/enjoei/career/tree/master/apps/lideranca)
 
-- tecnologia
-- práticas & método
-- senso do produto
-- trabalho em equipe
-- liderança
-
 ## tipos de conteúdo
 - :computer: Blogs
 - :family: Comunidades
