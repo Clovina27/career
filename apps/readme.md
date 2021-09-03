@@ -5,6 +5,7 @@ uma lista selecionada de conteúdos relacionada a apps, pra te ajudar na jornada
 
 ##### _tem algum conteúdo interessante? nos ajude a trazer mais recursos!_
 
+<<<<<<< HEAD
 
 ### :ringed_planet: don't panic:
 
@@ -14,42 +15,21 @@ uma lista selecionada de conteúdos relacionada a apps, pra te ajudar na jornada
 `P` - Pro
 `M` - Mestre
 `J` - Jedi
+=======
+>>>>>>> create subdirectories to apps
 
 ## conteúdos
+- [tecnologia](https://github.com/enjoei/career/tree/master/apps/tecnologia)
+- [práticas & método](https://github.com/enjoei/career/tree/master/apps/praticas%20%26%20metodo)
+- [senso do produto](https://github.com/enjoei/career/tree/master/apps/senso%20do%20produto)
+- [trabalho em equipe](https://github.com/enjoei/career/tree/master/apps/trabalho%20em%20equipe)
+- [liderança](https://github.com/enjoei/career/tree/master/apps/lideranca)
+
 - tecnologia
-  - programação nativa
-  - programação multiplataforma
-  - pixel perfect ui
-  - estratégias de deploy
-  - monitoração da operação
-  
 - práticas & método
-  - testabilidade
-  - método científico
-  - interface humana
-  - automação
-  - boas práticas
-
 - senso do produto
-  - experiência de primeira mão
-  - indicadores de desempenho
-  - retorno sobre investimento
-  - engajamento & nps
-  - mvp vs mlp
-
 - trabalho em equipe
-  - gestão do código fonte
-  - ecossistema tech
-  - agilidade & lean
-  - crítica ao status quo
-  - melhoria contínua
-
 - liderança
-  - comunicação efetiva
-  - feedback construtivo
-  - resolução de problemas
-  - construção de times
-  - mediação de conflitos
 
 ## tipos de conteúdo
 - :computer: Blogs
