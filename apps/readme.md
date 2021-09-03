@@ -5,18 +5,6 @@ uma lista selecionada de conteúdos relacionada a apps, pra te ajudar na jornada
 
 ##### _tem algum conteúdo interessante? nos ajude a trazer mais recursos!_
 
-<<<<<<< HEAD
-
-### :ringed_planet: don't panic:
-
-:label: **tags:**
-`A` - Aprendiz
-`C` - Confiante
-`P` - Pro
-`M` - Mestre
-`J` - Jedi
-=======
->>>>>>> create subdirectories to apps
 
 ## conteúdos
 - [tecnologia](https://github.com/enjoei/career/tree/master/apps/tecnologia)
