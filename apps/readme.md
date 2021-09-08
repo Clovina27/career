@@ -6,14 +6,21 @@ uma lista selecionada de conteúdos relacionada a apps, pra te ajudar na jornada
 ##### _tem algum conteúdo interessante? nos ajude a trazer mais recursos!_
 
 
-### :ringed_planet: don't panic:
-
-:label: **tags:**
-`A` - Aprendiz
-`C` - Confiante
-`P` - Pro
-`M` - Mestre
-`J` - Jedi
-
 ## conteúdos
-- em construção
+- [tecnologia](https://github.com/enjoei/career/tree/master/apps/tecnologia)
+- [práticas & método](https://github.com/enjoei/career/tree/master/apps/praticas%20%26%20metodo)
+- [senso do produto](https://github.com/enjoei/career/tree/master/apps/senso%20do%20produto)
+- [trabalho em equipe](https://github.com/enjoei/career/tree/master/apps/trabalho%20em%20equipe)
+- [liderança](https://github.com/enjoei/career/tree/master/apps/lideranca)
+
+## tipos de conteúdo
+- :computer: Blogs
+- :family: Comunidades
+- :video_camera: Conferências
+- :open_book: Cursos
+- :books: Livros
+- :newspaper: Newsletter
+- :headphones: Podcasts
+- :bookmark_tabs: Posts
+- :octocat: Repositório
+- :desktop_computer: Sites
