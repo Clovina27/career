@@ -46,7 +46,7 @@
 ## engajamento & nps
 | tags 	| título    	| autor(a/es) e local |
 |-----------	|-----------	|-----------	|
-| `C`‧:clapper:‧:uk: | [Where Does Growth Come From?](https://www.youtube.com/watch?v=rHdS_4GsKmg) | Clayton Christensen @ Talks at Google |
+| `C`‧:video_camera:‧:uk: | [Where Does Growth Come From?](https://www.youtube.com/watch?v=rHdS_4GsKmg) | Clayton Christensen @ Talks at Google |
 
 ## mvp vs mlp
 [em construção]
