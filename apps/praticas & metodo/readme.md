@@ -41,7 +41,10 @@
 [em construção]
 
 ## interface humana
-[em construção]
+| tags 	| título    	| autor(a/es) e local |
+|-----------	|-----------	|-----------	|
+| `A`‧:desktop_computer:‧:uk:‧:apple: | [iOS Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios) | Apple |
+| `A`‧:desktop_computer:‧:uk:‧:robot: | [Android Human Interface Guidelines](https://developer.android.com/guide/topics/ui) | Google |
 
 ## automação
 [em construção]
