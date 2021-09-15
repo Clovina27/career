@@ -16,11 +16,11 @@
 `J` - Jedi
 
 ## conteúdos
-  - comunicação efetiva
-  - feedback construtivo
-  - resolução de problemas
-  - construção de times
-  - mediação de conflitos
+  - [comunicação efetiva](https://github.com/enjoei/career/tree/master/apps/lideranca#comunicação-efetiva)
+  - [feedback construtivo](https://github.com/enjoei/career/tree/master/apps/lideranca#feedback-construtivo)
+  - [resolução de problemas](https://github.com/enjoei/career/tree/master/apps/lideranca#resolução-de-problemas)
+  - [construção de times](https://github.com/enjoei/career/tree/master/apps/lideranca#construção-de-times)
+  - [mediação de conflitos](https://github.com/enjoei/career/tree/master/apps/lideranca#mediação-de-conflitos)
 
 ## tipos de conteúdo
 - :computer: Blogs
@@ -33,3 +33,18 @@
 - :bookmark_tabs: Posts
 - :octocat: Repositório
 - :desktop_computer: Sites
+
+## comunicação efetiva
+[em construção]
+
+## feedback construtivo
+[em construção]
+
+## resolução de problemas
+[em construção]
+
+## construção de times
+[em construção]
+
+## mediação de conflitos
+[em construção]

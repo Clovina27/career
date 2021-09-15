@@ -16,11 +16,11 @@
 `J` - Jedi
 
 ## conteúdos
-  - testabilidade
-  - método científico
-  - interface humana
-  - automação
-  - boas práticas
+  - [testabilidade](https://github.com/enjoei/career/tree/master/apps/praticas%20%26%20metodo#testabilidade)
+  - [método científico](https://github.com/enjoei/career/tree/master/apps/praticas%20%26%20metodo#método-científico)
+  - [interface humana](https://github.com/enjoei/career/tree/master/apps/praticas%20%26%20metodo#interface-humana)
+  - [automação](https://github.com/enjoei/career/tree/master/apps/praticas%20%26%20metodo#automação)
+  - [boas práticas](https://github.com/enjoei/career/tree/master/apps/praticas%20%26%20metodo#boas-práticas)
 
 ## tipos de conteúdo
 - :computer: Blogs
@@ -33,3 +33,18 @@
 - :bookmark_tabs: Posts
 - :octocat: Repositório
 - :desktop_computer: Sites
+
+## testabilidade
+[em construção]
+
+## método científico
+[em construção]
+
+## interface humana
+[em construção]
+
+## automação
+[em construção]
+
+## boas práticas
+[em construção]
