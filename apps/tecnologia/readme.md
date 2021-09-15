@@ -16,11 +16,11 @@
 `J` - Jedi
 
 ## conteúdos
-  - programação nativa
-  - programação multiplataforma
-  - pixel perfect ui
-  - estratégias de deploy
-  - monitoração da operação
+  - [programação nativa](https://github.com/enjoei/career/tree/master/apps/tecnologia#programação-nativa)
+  - [programação multiplataforma](https://github.com/enjoei/career/tree/master/apps/tecnologia#programação-multiplataforma)
+  - [pixel perfect ui](https://github.com/enjoei/career/tree/master/apps/tecnologia#pixel-perfect-ui)
+  - [estratégias de deploy](https://github.com/enjoei/career/tree/master/apps/tecnologia#estratégias-de-deploy)
+  - [monitoração da operação](https://github.com/enjoei/career/tree/master/apps/tecnologia#monitoração-da-operação)
 
 ## tipos de conteúdo
 - :computer: Blogs
@@ -33,3 +33,18 @@
 - :bookmark_tabs: Posts
 - :octocat: Repositório
 - :desktop_computer: Sites
+
+## programação nativa
+[em construção]
+
+## programação multiplataforma
+[em construção]
+
+## pixel perfect ui
+[em construção]
+
+## estratégias de deploy
+[em construção]
+
+## monitoração da operação
+[em construção]
