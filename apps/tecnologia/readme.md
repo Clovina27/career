@@ -35,7 +35,16 @@
 - :desktop_computer: Sites
 
 ## programação nativa
-[em construção]
+| tags 	| título    	| autor(a/es) e local |
+|-----------	|-----------	|-----------	|
+| `A`‧:desktop_computer:‧:uk:‧:robot:‧:apple: | [raywenderlich.com](https://www.raywenderlich.com) | Ray Wenderlich |
+| `A`‧:desktop_computer:‧:uk:‧:apple: | [Apple Developer](https://developer.apple.com/) | Apple |
+| `A`‧:desktop_computer:‧:uk:‧:apple: | [The Swift Programming Language](https://docs.swift.org/swift-book/) | Apple |
+| `A`‧:desktop_computer:‧:uk:‧:apple: | [Hacking With Swift](https://www.hackingwithswift.com/) | Paul Hudson |
+| `A`‧:desktop_computer:‧:uk:‧:br:‧:robot: | [Android Developers](https://developer.android.com/) | Android Developers |
+| `A`‧:desktop_computer:‧:uk:‧:robot: | [Android Developers @ Medium](https://medium.com/androiddevelopers) | Android Developers |
+| `A`‧:headphones:‧:uk:‧:robot: | [Android Developers Backstage](https://adbackstage.libsyn.com) | Android Developers |
+| `A`‧:open_book:‧:uk:‧:robot: | [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012) | Google |
 
 ## programação multiplataforma
 [em construção]
