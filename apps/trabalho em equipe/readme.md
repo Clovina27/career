@@ -16,16 +16,9 @@
 `J` - Jedi
 
 ## conteúdos
-  - gestão do código fonte
-  - ecossistema tech
-  - agilidade & lean
-  - crítica ao status quo
-  - melhoria contínua
-
-## conteúdos
   - [gestão do código fonte](https://github.com/enjoei/career/tree/master/apps/trabalho%20em%20equipe#gestão-do-código-fonte)
   - [ecossistema tech](https://github.com/enjoei/career/tree/master/apps/trabalho%20em%20equipe#ecossistema-tech)
-  - [agilidade & lean](https://github.com/enjoei/career/tree/master/apps/trabalho%20em%20equipe#agilidade-&-lean)
+  - [agilidade & lean](https://github.com/enjoei/career/tree/master/apps/trabalho%20em%20equipe#agilidade--lean)
   - [crítica ao status quo](https://github.com/enjoei/career/tree/master/apps/trabalho%20em%20equipe#crítica-ao-status-quo)
   - [melhoria contínua](https://github.com/enjoei/career/tree/master/apps/trabalho%20em%20equipe#melhoria-contínua)
 
