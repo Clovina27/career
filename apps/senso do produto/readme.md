@@ -19,7 +19,7 @@
   - [experiência de primeira mão](https://github.com/enjoei/career/tree/master/apps/senso%20do%20produto#experiência-de-primeira-mão)
   - [indicadores de desempenho](https://github.com/enjoei/career/tree/master/apps/senso%20do%20produto#indicadores-de-desempenho)
   - [retorno sobre investimento](https://github.com/enjoei/career/tree/master/apps/senso%20do%20produto#retorno-sobre-investimento)
-  - [engajamento & nps](https://github.com/enjoei/career/tree/master/apps/senso%20do%20produto#engajamento-&-nps)
+  - [engajamento & nps](https://github.com/enjoei/career/tree/master/apps/senso%20do%20produto#engajamento--nps)
   - [mvp vs mlp](https://github.com/enjoei/career/tree/master/apps/senso%20do%20produto#mvp-vs-mlp)
 
 ## tipos de conteúdo
