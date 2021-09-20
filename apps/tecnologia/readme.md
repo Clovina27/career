@@ -41,6 +41,7 @@
 | `A`‧:desktop_computer:‧:uk:‧:apple: | [Apple Developer](https://developer.apple.com/) | Apple |
 | `A`‧:desktop_computer:‧:uk:‧:apple: | [The Swift Programming Language](https://docs.swift.org/swift-book/) | Apple |
 | `A`‧:desktop_computer:‧:uk:‧:apple: | [Hacking With Swift](https://www.hackingwithswift.com/) | Paul Hudson |
+| `A`‧:desktop_computer:‧:uk:‧:apple: | [Swift By Sundell](https://www.swiftbysundell.com/articles/) | John Sundell |
 | `A`‧:desktop_computer:‧:uk:‧:br:‧:robot: | [Android Developers](https://developer.android.com/) | Android Developers |
 | `A`‧:desktop_computer:‧:uk:‧:robot: | [Android Developers @ Medium](https://medium.com/androiddevelopers) | Android Developers |
 | `A`‧:headphones:‧:uk:‧:robot: | [Android Developers Backstage](https://adbackstage.libsyn.com) | Android Developers |
