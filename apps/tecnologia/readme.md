@@ -42,7 +42,9 @@
 | `A`‧:desktop_computer:‧:uk:‧:apple: | [The Swift Programming Language](https://docs.swift.org/swift-book/) | Apple |
 | `A`‧:desktop_computer:‧:uk:‧:apple: | [Hacking With Swift](https://www.hackingwithswift.com/) | Paul Hudson |
 | `A`‧:desktop_computer:‧:uk:‧:apple: | [Swift By Sundell](https://www.swiftbysundell.com/articles/) | John Sundell |
-| `A`‧:desktop_computer:‧:uk:‧:br:‧:robot: | [Android Developers](https://developer.android.com/) | Android Developers |
+| `A`‧:open_book:‧:uk:‧:apple: | [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/) | Dr. Angela Yu |
+| `A`‧:open_book:‧:uk:‧:apple: | [SwiftUI Masterclass 2021 - iOS 15 App Development & Swift 5](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/) | Robert Petras |
+| `A`‧:desktop_computer:‧:uk:‧:brazil:‧:robot: | [Android Developers](https://developer.android.com/) | Android Developers |
 | `A`‧:desktop_computer:‧:uk:‧:robot: | [Android Developers @ Medium](https://medium.com/androiddevelopers) | Android Developers |
 | `A`‧:headphones:‧:uk:‧:robot: | [Android Developers Backstage](https://adbackstage.libsyn.com) | Android Developers |
 | `A`‧:open_book:‧:uk:‧:robot: | [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012) | Google |
