@@ -45,12 +45,17 @@
 | `A`‧:open_book:‧:uk:‧:apple: | [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/) | Dr. Angela Yu |
 | `A`‧:open_book:‧:uk:‧:apple: | [SwiftUI Masterclass 2021 - iOS 15 App Development & Swift 5](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/) | Robert Petras |
 | `A`‧:desktop_computer:‧:uk:‧:brazil:‧:robot: | [Android Developers](https://developer.android.com/) | Android Developers |
+| `A`‧:desktop_computer:‧:uk:‧:brazil:‧:robot: | [Android Developers @ Jetpack Compose](https://developer.android.com/jetpack/compose) | Android Developers |
 | `A`‧:desktop_computer:‧:uk:‧:robot: | [Android Developers @ Medium](https://medium.com/androiddevelopers) | Android Developers |
 | `A`‧:headphones:‧:uk:‧:robot: | [Android Developers Backstage](https://adbackstage.libsyn.com) | Android Developers |
 | `A`‧:open_book:‧:uk:‧:robot: | [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012) | Google |
 
 ## programação multiplataforma
-[em construção]
+| tags 	| título    	| autor(a/es) e local |
+|-----------	|-----------	|-----------	|
+| `A`‧:open_book:‧:uk:‧:robot:‧:apple:| [Kotlin Multiplataform Mobile](https://kotlinlang.org/docs/kmm-overview.html) | KotlinLang |
+| `A`‧:open_book:‧:uk:‧:robot:‧:apple:| [raywenderlich.com](https://www.raywenderlich.com/19144111-kotlin-multiplatform-project-for-android-and-ios-getting-started) | Ray Wenderlich |
+| `A`‧:open_book:‧:uk:‧:robot:‧:apple:| [KMM Recommended Libraries](https://github.com/AAkira/Kotlin-Multiplatform-Libraries) | Github |
 
 ## pixel perfect ui
 [em construção]
