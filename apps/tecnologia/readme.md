@@ -56,6 +56,7 @@
 | `A`‧:open_book:‧:uk:‧:robot:‧:apple:| [Kotlin Multiplataform Mobile](https://kotlinlang.org/docs/kmm-overview.html) | KotlinLang |
 | `A`‧:open_book:‧:uk:‧:robot:‧:apple:| [raywenderlich.com](https://www.raywenderlich.com/19144111-kotlin-multiplatform-project-for-android-and-ios-getting-started) | Ray Wenderlich |
 | `A`‧:open_book:‧:uk:‧:robot:‧:apple:| [KMM Recommended Libraries](https://github.com/AAkira/Kotlin-Multiplatform-Libraries) | Github |
+| `A`‧:books:‧:uk: | [Seven Languages in Seven Weeks](https://pragprog.com/titles/btlang/seven-languages-in-seven-weeks/) | Bruce A. Tate |
 
 ## pixel perfect ui
 [em construção]

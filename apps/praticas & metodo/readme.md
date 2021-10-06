@@ -51,4 +51,9 @@
 [em construção]
 
 ## boas práticas
-[em construção]
+| tags 	| título    	| autor(a/es) e local |
+|-----------	|-----------	|-----------	|
+| `A`‧:books:‧:brazil: | [O codificador limpo: Um código de conduta para programadores profissionais](https://www.amazon.com.br/Codificador-Limpo-Bob-Martin/dp/8576086476/) | Robert C. Martin |
+| `C`‧:books:‧:brazil: | [Código limpo: Habilidades práticas do Agile Software](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675/) | Robert C. Martin |
+| `C`‧:books:‧:brazil: | [Arquitetura limpa: O guia do artesão para estrutura e design de software](https://www.amazon.com.br/Arquitetura-Limpa-Artes%C3%A3o-Estrutura-Software/dp/8550804606/) | Robert C. Martin |
+| `C`‧:books:‧:uk: | [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com.br/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8/) | Gamma, Helm, Johnson & Vlissides |

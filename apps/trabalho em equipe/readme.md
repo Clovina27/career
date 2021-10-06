@@ -38,10 +38,15 @@
 [em construção]
 
 ## ecossistema tech
-[em construção]
+| tags 	| título    	| autor(a/es) e local |
+|-----------	|-----------	|-----------	|
+| `C`‧:books:‧:brazil:| [Algoritmos - Teoria e Prática](https://www.amazon.com.br/Algoritmos-Teoria-Pr%C3%A1tica-Thomas-Cormen/dp/8535236996/) | Cormen, Leiserson, Rivest & Stein |
+| `A`‧:books:‧:brazil:| [Expressões Regulares: Uma Abordagem Divertida](https://www.amazon.com.br/dp/8575224743/) | Aurelio Marinho Jargas |
 
 ## agilidade & lean
-[em construção]
+| tags 	| título    	| autor(a/es) e local |
+|-----------	|-----------	|-----------	|
+| `C`‧:books:‧:brazil:| [Desenvolvimento Ágil Limpo: De volta às origens](https://www.amazon.com.br/Desenvolvimento-%C3%81gil-Limpo-volta-origens-ebook/dp/B08P7YJNM7/) | Robert C. Martin |
 
 ## crítica ao status quo
 [em construção]
