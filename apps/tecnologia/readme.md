@@ -59,7 +59,9 @@
 | `A`‧:books:‧:uk: | [Seven Languages in Seven Weeks](https://pragprog.com/titles/btlang/seven-languages-in-seven-weeks/) | Bruce A. Tate |
 
 ## pixel perfect ui
-[em construção]
+| tags 	| título    	| autor(a/es) e local |
+|-----------	|-----------	|-----------	|
+| `A`‧:desktop_computer:‧:uk:‧:robot: | [Android Animation Tutorial with Kotlin](https://www.raywenderlich.com/2785491-android-animation-tutorial-with-kotlin) | Ray Wenderlich |
 
 ## estratégias de deploy
 [em construção]
