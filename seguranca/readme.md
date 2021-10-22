@@ -1,6 +1,6 @@
 # carreira segurança
 
-uma lista selecionada de conteúdos relacionados a segurança, pra te ajudar na jornada do [enjuCa](https://enjuca.enjoei.com.br), o plano de carreira do enjoei!
+uma lista selecionada de conteúdos relacionados a segurança, pra te ajudar na jornada do [enjuCa](https://carreira.enjoei.com), o plano de carreira do enjoei!
 
 
 ##### _tem algum conteúdo interessante? nos ajude a trazer mais recursos!_
